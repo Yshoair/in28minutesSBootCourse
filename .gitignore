@@ -116,3 +116,6 @@ target
 transaction-logs
 .flattened-pom.xml
 secrets.yml
+
+### myDecision ###
+application.properties
